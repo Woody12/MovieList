@@ -1,2 +1,2 @@
 # MovieList
-Show movie list like NetFlix
+Show list of movies like NetFlix using IMDB API and allow filtering.
